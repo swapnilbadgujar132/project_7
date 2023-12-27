@@ -1,0 +1,55 @@
+.header{
+    width: 100%; 
+     background-color: black; 
+     height: 50px;
+      display: flex; 
+     justify-content: space-evenly;
+     align-items: center;
+     color: white;
+}
+
+.header_item{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0; 
+    width: 100%;
+}
+
+.footer_name{
+      width: 100%; 
+}
+.input_text{
+    margin:50px;
+    text-align: center;
+    border: none;
+    color: white;
+    background-color: rgb(237, 219, 219);
+    border-radius: 10px;
+    border-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
